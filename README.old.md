@@ -1,1 +1,0 @@
-# designer-technical-test
