@@ -78,7 +78,7 @@ export const MentorContainer = styled.div`
   position: relative;
   height : 320px;
   width: 100%;
-  float: left;
+  margin-bottom: 200px;
 `
 
 export const LogoSvg = styled.img`
